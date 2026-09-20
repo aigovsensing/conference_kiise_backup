@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-20",
   "items": [
-    {
-      "abbr": "CHES",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-07-15",
-      "note": "분기 마감"
-    },
-    {
-      "abbr": "SIGMOD",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-07-17",
-      "note": "1차 라운드"
-    },
-    {
-      "abbr": "AAAI",
-      "edition": "2027",
-      "kind": "초록",
-      "date": "2026-07-21"
-    },
     {
       "abbr": "NDSS",
       "edition": "2027",
@@ -1039,6 +1019,13 @@
       "edition": "2028",
       "kind": "논문",
       "date": "2027-10-15"
+    },
+    {
+      "abbr": "OOPSLA",
+      "edition": "2028",
+      "kind": "논문",
+      "date": "2027-10-20",
+      "note": "1차 라운드"
     }
   ]
 }
