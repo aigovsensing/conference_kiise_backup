@@ -6,53 +6,8 @@
 // 실제 마감일은 반드시 각 학회 공식 홈페이지에서 확인해야 합니다.
 // abbr 은 docs/assets/data.js 의 약칭과 일치해야 캘린더 칩이 학회 정보와 연결됩니다.
 window.KIISE_DEADLINES = {
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "items": [
-    {
-      "abbr": "HPCA",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-07-31"
-    },
-    {
-      "abbr": "INFOCOM",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-07-31"
-    },
-    {
-      "abbr": "KDD",
-      "edition": "2027",
-      "kind": "초록",
-      "date": "2026-08-01",
-      "note": "1차 라운드"
-    },
-    {
-      "abbr": "UBICOMP",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-08-01",
-      "note": "IMWUT 분기 마감"
-    },
-    {
-      "abbr": "VLDB",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-08-01",
-      "note": "롤링(매월 1일)"
-    },
-    {
-      "abbr": "WSDM",
-      "edition": "2027",
-      "kind": "초록",
-      "date": "2026-08-03"
-    },
-    {
-      "abbr": "PPoPP",
-      "edition": "2027",
-      "kind": "초록",
-      "date": "2026-08-04"
-    },
     {
       "abbr": "WSDM",
       "edition": "2027",
@@ -1021,6 +976,18 @@ window.KIISE_DEADLINES = {
       "kind": "논문",
       "date": "2027-11-01",
       "note": "롤링(매월 1일)"
+    },
+    {
+      "abbr": "STOC",
+      "edition": "2028",
+      "kind": "논문",
+      "date": "2027-11-03"
+    },
+    {
+      "abbr": "CVPR",
+      "edition": "2028",
+      "kind": "초록",
+      "date": "2027-11-06"
     }
   ]
 };
