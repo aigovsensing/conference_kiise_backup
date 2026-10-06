@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-06",
   "specialWatch": [
     "ICML",
     "ICLR",
@@ -16,6 +16,23 @@
     "INTERSPEECH"
   ],
   "items": [
+    {
+      "abbr": "ICML",
+      "edition": "2026",
+      "year": 2026,
+      "country": "KR",
+      "name": "International Conference on Machine Learning",
+      "city": "서울",
+      "cityEn": "Seoul",
+      "venue": "COEX",
+      "start": "2026-07-06",
+      "end": "2026-07-11",
+      "deadlines": [],
+      "site": "https://icml.cc/Conferences/2026",
+      "confirmed": false,
+      "autoAdded": true,
+      "needsReview": true
+    },
     {
       "abbr": "KDD",
       "edition": "2026",
