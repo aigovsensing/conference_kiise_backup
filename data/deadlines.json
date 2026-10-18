@@ -1,13 +1,6 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "items": [
-    {
-      "abbr": "MobiCom",
-      "edition": "2027",
-      "kind": "논문",
-      "date": "2026-08-15",
-      "note": "2차 라운드"
-    },
     {
       "abbr": "USENIX Security",
       "edition": "2027",
@@ -993,6 +986,18 @@
       "edition": "2028",
       "kind": "초록",
       "date": "2027-11-13"
+    },
+    {
+      "abbr": "DAC",
+      "edition": "2028",
+      "kind": "논문",
+      "date": "2027-11-20"
+    },
+    {
+      "abbr": "ISCA",
+      "edition": "2028",
+      "kind": "논문",
+      "date": "2027-11-20"
     }
   ]
 }
